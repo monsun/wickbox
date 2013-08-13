@@ -133,16 +133,54 @@
       <file leaf-file-name="TemplatePage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/TemplatePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="42" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginFormPanel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/LoginFormPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="11" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TemplatePage.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="LoginFormPanel.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/LoginFormPanel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="17" selection-start="177" selection-end="177" vertical-scroll-proportion="-4.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleLoginPage.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/SimpleLoginPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="27" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TemplatePage.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/TemplatePage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="19" selection-start="160" selection-end="160" vertical-scroll-proportion="0.21518987">
+            <state line="11" column="8" selection-start="303" selection-end="303" vertical-scroll-proportion="-7.1923075">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleLoginPage.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/SimpleLoginPage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="19" selection-start="578" selection-end="578" vertical-scroll-proportion="0.51224107">
               <folding />
             </state>
           </provider>
@@ -151,7 +189,7 @@
       <file leaf-file-name="HomePage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="47" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+            <state line="21" column="47" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -160,7 +198,7 @@
       <file leaf-file-name="Start.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/eu/jedrzej/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="49" selection-start="2701" selection-end="2701" vertical-scroll-proportion="0.0">
+            <state line="50" column="41" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -176,7 +214,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/HomePage.html" />
         <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/HeaderPanel.java" />
         <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/HeaderPanel.html" />
@@ -184,8 +221,13 @@
         <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/MenuPanel.java" />
         <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/MenuPanel.html" />
         <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/FooterPanel.html" />
+        <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/LoginFormPanel.java" />
         <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/TemplatePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/LoginFormPanel.html" />
         <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/TemplatePage.html" />
+        <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/SimpleLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/eu/jedrzej/SimpleLoginPage.html" />
       </list>
     </option>
   </component>
@@ -644,6 +686,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905984" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -658,7 +701,6 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32905984" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -722,66 +764,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="45" selection-start="941" selection-end="941" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/aggregate/jetty-all-server/7.6.3.v20120416/jetty-all-server-7.6.3.v20120416.jar!/org/eclipse/jetty/webapp/WebAppContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="162" selection-end="162" vertical-scroll-proportion="0.078071184" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/WicketApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="28" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="47" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/eu/jedrzej/Start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="49" selection-start="2701" selection-end="2701" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/HomePage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="16" selection-start="746" selection-end="746" vertical-scroll-proportion="-15.692307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/HeaderPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/HeaderPanel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="242" selection-end="242" vertical-scroll-proportion="-5.8846154">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/FooterPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="4" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0">
@@ -803,6 +785,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/eu/jedrzej/Start.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="41" selection-start="2210" selection-end="2210" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.9.1/wicket-core-6.9.1.jar!/org/apache/wicket/MarkupContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="45" selection-start="2513" selection-end="2513" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="47" selection-start="728" selection-end="728" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/LoginFormPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="11" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/TemplatePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/LoginFormPanel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="17" selection-start="177" selection-end="177" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/HomePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="16" selection-start="746" selection-end="746" vertical-scroll-proportion="-15.692307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/FooterPanel.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="59" selection-start="254" selection-end="254" vertical-scroll-proportion="-5.8846154">
@@ -810,16 +843,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/TemplatePage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/TemplatePage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
+        <state line="11" column="8" selection-start="303" selection-end="303" vertical-scroll-proportion="-7.1923075">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/TemplatePage.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/HeaderPanel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="160" selection-end="160" vertical-scroll-proportion="0.21518987">
+        <state line="9" column="23" selection-start="242" selection-end="242" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.9.1/wicket-core-6.9.1-sources.jar!/org/apache/wicket/MarkupContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="573" column="8" selection-start="17187" selection-end="17187" vertical-scroll-proportion="0.33271027">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/SimpleLoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="27" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/eu/jedrzej/SimpleLoginPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="19" selection-start="578" selection-end="578" vertical-scroll-proportion="0.51224107">
           <folding />
         </state>
       </provider>

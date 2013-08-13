@@ -19,7 +19,7 @@ public class HomePage extends WebPage {
 
             @Override
             public void onClick() {
-                setResponsePage(HomePage.class);
+                setResponsePage(SimpleLoginPage.class);
             }
         });
     }
